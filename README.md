@@ -1,0 +1,2 @@
+# Temperature-Converter-JS
+A quick temperature converter supporting Celsius to Fahrenheit and Fahrenheit to Celsius. Built with pure JavaScript for accurate conversions. Simple UI, easy logic, and perfect for learning beginners.
